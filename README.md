@@ -10,7 +10,7 @@
 
 ---
 ---
-A passionate system engineer who loves automating manual things with good knowlege on Devops & Cloud Technolgies and who loves to work on the above techmologies.
+A passionate system engineer who loves automating manual things with good knowlege on Devops & Cloud Technolgies and who loves to work on the above technologies.
 
 ---
 ---
