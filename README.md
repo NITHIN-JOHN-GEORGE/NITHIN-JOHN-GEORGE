@@ -17,9 +17,9 @@ Infrastructure Automation, Observability, and Developer Experience.
 
 nithin@porter:~$ cat ~/.about-me.yaml
 name: Nithin John George
-role: SDE 3, Engineering Platform
+role: SDE-3, Engineering Platform
 company: Porter
-location: Kottayam, India
+i-am-based-in: Kottayam, Kerala ,India
 focus:
   - Platform Engineering & SRE
   - Cloud Infrastructure & GitOps
