@@ -11,6 +11,7 @@
 <a href="https://nithin-john-george.github.io"><img src="https://img.shields.io/badge/Website-nithin--john--george.github.io-38E8C6?style=for-the-badge&logo=googlechrome&logoColor=0d1117" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/nithin-john-george-517ab1160/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@nithinjohn97"><img src="https://img.shields.io/badge/Medium-Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://www.credly.com/badges/e5a9c1b5-3d1f-44ff-a4fa-06474dc89c2b"><img src="https://img.shields.io/badge/CKAD-Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Certified Kubernetes Application Developer (CKAD)" /></a>
 
 </div>
 
@@ -90,17 +91,11 @@ focus:
 ## `$ cat ~/.github/stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NITHIN-JOHN-GEORGE&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38e8c6&icon_color=7c8cff&text_color=c9d1d9" alt="GitHub stats for Nithin John George" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NITHIN-JOHN-GEORGE&layout=compact&langs_count=6&hide_border=true&bg_color=0d1117&title_color=38e8c6&text_color=c9d1d9" alt="Most used languages" />
-</p>
-
-<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=NITHIN-JOHN-GEORGE&hide_border=true&background=0D1117&ring=38E8C6&fire=7C8CFF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=38E8C6&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" alt="GitHub contribution streak" />
 </p>
 
-<details>
-<summary><b>Experience and certifications</b></summary>
-<br>
+## `$ cat ~/.experience`
 
 | Role | Company | Period |
 | :--- | :--- | :--- |
@@ -109,9 +104,14 @@ focus:
 | **DevOps Engineer** | Apton Works | Mar 2022 to May 2023 |
 | **Junior System Engineer** | Geojit Financial | Mar 2020 to Oct 2021 |
 
-**Certifications (expired):** Red Hat Certified Engineer (RHCE) · Red Hat Certified System Administrator (RHCSA) · HashiCorp Certified: Terraform Associate (003)
+## `$ cat ~/.certifications`
 
-</details>
+| Certification | Issuer | Status |
+| :--- | :--- | :--- |
+| **[Certified Kubernetes Application Developer (CKAD)](https://www.credly.com/badges/e5a9c1b5-3d1f-44ff-a4fa-06474dc89c2b)** | The Linux Foundation · CNCF | ✅ Active · Oct 2026 |
+| **Red Hat Certified Engineer (RHCE)** | Red Hat | Expired |
+| **Red Hat Certified System Administrator (RHCSA)** | Red Hat | Expired |
+| **HashiCorp Certified: Terraform Associate (003)** | HashiCorp | Expired |
 
 ## `$ ./connect.sh`
 
